@@ -1,0 +1,5 @@
+org\mergermarket\pageobjects\BasePage.class
+org\mergermarket\pageobjects\CartItemPage.class
+org\mergermarket\pageobjects\ManageSignInPage.class
+org\mergermarket\pageobjects\HomePage.class
+org\mergermarket\pageobjects\SearchPage.class
