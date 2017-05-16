@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: loveholidays_testrunner.LoveHolidaysTestRunner
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 52.265 sec - in loveholidays_testrunner.LoveHolidaysTestRunner
